@@ -1,0 +1,364 @@
+{
+  "channels": [
+    {
+      "id": "globo",
+      "name": "Globo",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rede_Globo_logo.svg/200px-Rede_Globo_logo.svg.png",
+      "genre": "Abertos"
+    },
+    {
+      "id": "sbt",
+      "name": "SBT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/SBT_logo_2014.svg/200px-SBT_logo_2014.svg.png",
+      "genre": "Abertos"
+    },
+    {
+      "id": "record",
+      "name": "Record",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rede_Record_logo.svg/200px-Rede_Record_logo.svg.png",
+      "genre": "Abertos"
+    },
+    {
+      "id": "band",
+      "name": "Band",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Band_logo_2016.svg/200px-Band_logo_2016.svg.png",
+      "genre": "Abertos"
+    },
+    {
+      "id": "redetv",
+      "name": "RedeTV!",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RedeTV%21_logo_2021.svg/200px-RedeTV%21_logo_2021.svg.png",
+      "genre": "Abertos"
+    },
+    {
+      "id": "cultura",
+      "name": "TV Cultura",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV_Cultura_logo_2021.svg/200px-TV_Cultura_logo_2021.svg.png",
+      "genre": "Abertos"
+    },
+    {
+      "id": "globonews",
+      "name": "GloboNews",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/GloboNews_logo.svg/200px-GloboNews_logo.svg.png",
+      "genre": "Notícias"
+    },
+    {
+      "id": "cnn-brasil",
+      "name": "CNN Brasil",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/200px-CNN_Brasil.svg.png",
+      "genre": "Notícias"
+    },
+    {
+      "id": "band-news",
+      "name": "BandNews TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2021.svg/200px-BandNews_TV_logo_2021.svg.png",
+      "genre": "Notícias"
+    },
+    {
+      "id": "record-news",
+      "name": "Record News",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Record_News_logo_2021.svg/200px-Record_News_logo_2021.svg.png",
+      "genre": "Notícias"
+    },
+    {
+      "id": "jovem-pan-news",
+      "name": "Jovem Pan News",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jovem_Pan_logo_2018.svg/200px-Jovem_Pan_logo_2018.svg.png",
+      "genre": "Notícias"
+    },
+    {
+      "id": "sportv",
+      "name": "SporTV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SporTV_logo.svg/200px-SporTV_logo.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "sportv2",
+      "name": "SporTV 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SporTV_2_logo_2024.svg/200px-SporTV_2_logo_2024.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "sportv3",
+      "name": "SporTV 3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SporTV_3_logo_2024.svg/200px-SporTV_3_logo_2024.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "espn",
+      "name": "ESPN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "espn2",
+      "name": "ESPN 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/200px-Espn2.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "espn3",
+      "name": "ESPN 3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.svg/200px-ESPN3_Logo.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "espn4",
+      "name": "ESPN 4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ESPN_4_logo.svg/200px-ESPN_4_logo.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "fox-sports",
+      "name": "Fox Sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fox_Sports_logo.svg/200px-Fox_Sports_logo.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere Clubes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Premiere_logo_2024.svg/200px-Premiere_logo_2024.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "combate",
+      "name": "Combate",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Combate_logo.svg/200px-Combate_logo.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "band-sports",
+      "name": "BandSports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BandSports_logo_2021.svg/200px-BandSports_logo_2021.svg.png",
+      "genre": "Esportes"
+    },
+    {
+      "id": "telecine-premium",
+      "name": "Telecine Premium",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_logo.svg/200px-Telecine_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "telecine-action",
+      "name": "Telecine Action",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Telecine_Action_logo_2024.svg/200px-Telecine_Action_logo_2024.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "telecine-touch",
+      "name": "Telecine Touch",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telecine_Touch_logo_2024.svg/200px-Telecine_Touch_logo_2024.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "telecine-fun",
+      "name": "Telecine Fun",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Telecine_Fun_logo_2024.svg/200px-Telecine_Fun_logo_2024.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "telecine-pipoca",
+      "name": "Telecine Pipoca",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Telecine_Pipoca_logo_2024.svg/200px-Telecine_Pipoca_logo_2024.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "telecine-cult",
+      "name": "Telecine Cult",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Telecine_Cult_logo_2024.svg/200px-Telecine_Cult_logo_2024.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "hbo",
+      "name": "HBO",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/200px-HBO_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "hbo2",
+      "name": "HBO 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.svg/200px-HBO2_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "hbo-plus",
+      "name": "HBO Plus",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Plus.svg/200px-HBO_Plus.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "hbo-family",
+      "name": "HBO Family",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/HBO_Family_logo.svg/200px-HBO_Family_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "hbo-signature",
+      "name": "HBO Signature",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/200px-HBO_Signature.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "max",
+      "name": "Max",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Max_logo.svg/200px-Max_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "max-prime",
+      "name": "Max Prime",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Max_Prime_logo.svg/200px-Max_Prime_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "max-up",
+      "name": "Max Up",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Max_Up_logo.svg/200px-Max_Up_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "cinemax",
+      "name": "Cinemax",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_logo.svg/200px-Cinemax_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "megapix",
+      "name": "Megapix",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Megapix_logo_2019.svg/200px-Megapix_logo_2019.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount Network",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Network_logo.svg/200px-Paramount_Network_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/200px-SpaceLogo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "tnt",
+      "name": "TNT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "fx",
+      "name": "FX",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "universal-tv",
+      "name": "Universal TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Universal_TV_logo.svg/200px-Universal_TV_logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "sony",
+      "name": "Sony Channel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.svg/200px-Sony_Channel_Logo.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "axn",
+      "name": "AXN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AXN_logo_%282015%29.svg/200px-AXN_logo_%282015%29.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "warner",
+      "name": "Warner Channel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Channel.svg/200px-Warner_Channel.svg.png",
+      "genre": "Filmes"
+    },
+    {
+      "id": "discovery-kids",
+      "name": "Discovery Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/200px-2016_Discovery_Kids_logo.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "cartoon-network",
+      "name": "Cartoon Network",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "disney-channel",
+      "name": "Disney Channel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Disney_Channel_logo_%282014%29.svg/200px-Disney_Channel_logo_%282014%29.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "nickelodeon",
+      "name": "Nickelodeon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/200px-Nickelodeon_2009_logo.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "nick-jr",
+      "name": "Nick Jr",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/200px-Nick_Jr._logo_2009.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "gloob",
+      "name": "Gloob",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gloob_logo_2024.svg/200px-Gloob_logo_2024.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "gloobinho",
+      "name": "Gloobinho",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gloobinho_logo_2024.svg/200px-Gloobinho_logo_2024.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "baby-tv",
+      "name": "Baby TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Baby_TV_logo.svg/200px-Baby_TV_logo.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "tooncast",
+      "name": "Tooncast",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "boomerang",
+      "name": "Boomerang",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png",
+      "genre": "Kids"
+    },
+    {
+      "id": "multishow",
+      "name": "Multishow",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Multishow_logo_2024.svg/200px-Multishow_logo_2024.svg.png",
+      "genre": "Música"
+    },
+    {
+      "id": "mtv",
+      "name": "MTV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png",
+      "genre": "Música"
+    },
+    {
+      "id": "bis",
+      "name": "BIS",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BIS_logo_2021.svg/200px-BIS_logo_2021.svg.png",
+      "genre": "Música"
+    },
+    {
+      "id": "music-box-brazil",
+      "name": "Music Box Brazil",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Music_Box_Brazil_logo.svg/200px-Music_Box_Brazil_logo.svg.png",
+      "genre": "Música"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "plans": [
+    {
+      "id": "40mb",
+      "speed": "40",
+      "price": "69,90",
+      "badge": null,
+      "features": ["Instalação gratuita", "Wi-Fi 6 em comodato", "Suporte humanizado", "Sem fidelidade"]
+    },
+    {
+      "id": "100mb",
+      "speed": "100",
+      "price": "79,90",
+      "badge": null,
+      "features": ["Instalação gratuita", "Wi-Fi 6 em comodato", "Suporte humanizado", "Sem fidelidade"]
+    },
+    {
+      "id": "200mb",
+      "speed": "200",
+      "price": "89,90",
+      "badge": null,
+      "features": ["Instalação gratuita", "Wi-Fi 6 em comodato", "Suporte humanizado", "Sem fidelidade"]
+    },
+    {
+      "id": "500mb",
+      "speed": "500",
+      "price": "99,90",
+      "badge": "Mais escolhido",
+      "features": ["Instalação gratuita", "Wi-Fi 6 em comodato", "Suporte humanizado", "Sem fidelidade"]
+    },
+    {
+      "id": "600mb",
+      "speed": "600",
+      "price": "129,90",
+      "badge": "Recomendado",
+      "features": ["Instalação gratuita", "Wi-Fi 6 em comodato", "Suporte humanizado", "Sem fidelidade"]
+    },
+    {
+      "id": "750mb",
+      "speed": "750",
+      "price": "149,90",
+      "badge": null,
+      "features": ["Instalação gratuita", "Wi-Fi 6 em comodato", "Suporte humanizado", "Sem fidelidade"]
+    }
+  ]
+}

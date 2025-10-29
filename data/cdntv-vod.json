@@ -1,0 +1,389 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Velozes e Furiosos 10",
+      "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "2",
+      "title": "Guardiões da Galáxia Vol. 3",
+      "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "3",
+      "title": "Homem-Aranha: Através do Aranhaverso",
+      "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "4",
+      "title": "Oppenheimer",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "5",
+      "title": "Barbie",
+      "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "6",
+      "title": "Missão Impossível: Acerto de Contas",
+      "poster": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "7",
+      "title": "Indiana Jones e o Chamado do Destino",
+      "poster": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "8",
+      "title": "Transformers: O Despertar das Feras",
+      "poster": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "9",
+      "title": "Aquaman e o Reino Perdido",
+      "poster": "https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+      "kind": "movie",
+      "year": 2023
+    },
+    {
+      "id": "10",
+      "title": "Avatar: O Caminho da Água",
+      "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "kind": "movie",
+      "year": 2022
+    },
+    {
+      "id": "11",
+      "title": "Top Gun: Maverick",
+      "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "kind": "movie",
+      "year": 2022
+    },
+    {
+      "id": "12",
+      "title": "Pantera Negra: Wakanda Para Sempre",
+      "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "kind": "movie",
+      "year": 2022
+    },
+    {
+      "id": "13",
+      "title": "Jurassic World: Domínio",
+      "poster": "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+      "kind": "movie",
+      "year": 2022
+    },
+    {
+      "id": "14",
+      "title": "Thor: Amor e Trovão",
+      "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "kind": "movie",
+      "year": 2022
+    },
+    {
+      "id": "15",
+      "title": "Doutor Estranho no Multiverso da Loucura",
+      "poster": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "kind": "movie",
+      "year": 2022
+    },
+    {
+      "id": "16",
+      "title": "The Last of Us",
+      "poster": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "17",
+      "title": "House of the Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg",
+      "kind": "tv",
+      "year": 2022
+    },
+    {
+      "id": "18",
+      "title": "Stranger Things",
+      "poster": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "kind": "tv",
+      "year": 2022
+    },
+    {
+      "id": "19",
+      "title": "The Mandalorian",
+      "poster": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "20",
+      "title": "Wednesday",
+      "poster": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "kind": "tv",
+      "year": 2022
+    },
+    {
+      "id": "21",
+      "title": "The Witcher",
+      "poster": "https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "22",
+      "title": "Succession",
+      "poster": "https://image.tmdb.org/t/p/w500/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "23",
+      "title": "The Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+      "kind": "tv",
+      "year": 2022
+    },
+    {
+      "id": "24",
+      "title": "Yellowstone",
+      "poster": "https://image.tmdb.org/t/p/w500/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "25",
+      "title": "1923",
+      "poster": "https://image.tmdb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad7iTV.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "26",
+      "title": "Peaky Blinders",
+      "poster": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "kind": "tv",
+      "year": 2022
+    },
+    {
+      "id": "27",
+      "title": "Breaking Bad",
+      "poster": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "kind": "tv",
+      "year": 2013
+    },
+    {
+      "id": "28",
+      "title": "Better Call Saul",
+      "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "kind": "tv",
+      "year": 2022
+    },
+    {
+      "id": "29",
+      "title": "Game of Thrones",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "kind": "tv",
+      "year": 2019
+    },
+    {
+      "id": "30",
+      "title": "The Crown",
+      "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
+      "kind": "tv",
+      "year": 2023
+    },
+    {
+      "id": "31",
+      "title": "Encanto",
+      "poster": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+      "kind": "kids",
+      "year": 2021
+    },
+    {
+      "id": "32",
+      "title": "Turning Red",
+      "poster": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "kind": "kids",
+      "year": 2022
+    },
+    {
+      "id": "33",
+      "title": "Lightyear",
+      "poster": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+      "kind": "kids",
+      "year": 2022
+    },
+    {
+      "id": "34",
+      "title": "Minions 2: A Origem de Gru",
+      "poster": "https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "kind": "kids",
+      "year": 2022
+    },
+    {
+      "id": "35",
+      "title": "Sonic 2: O Filme",
+      "poster": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "kind": "kids",
+      "year": 2022
+    },
+    {
+      "id": "36",
+      "title": "Puss in Boots: The Last Wish",
+      "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "kind": "kids",
+      "year": 2022
+    },
+    {
+      "id": "37",
+      "title": "DC Liga dos Super-Pets",
+      "poster": "https://image.tmdb.org/t/p/w500/r7XifzvtezFbhwrEYwdA05lznDO.jpg",
+      "kind": "kids",
+      "year": 2022
+    },
+    {
+      "id": "38",
+      "title": "Luca",
+      "poster": "https://image.tmdb.org/t/p/w500/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "kind": "kids",
+      "year": 2021
+    },
+    {
+      "id": "39",
+      "title": "Raya e o Último Dragão",
+      "poster": "https://image.tmdb.org/t/p/w500/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+      "kind": "kids",
+      "year": 2021
+    },
+    {
+      "id": "40",
+      "title": "Viva: A Vida é uma Festa",
+      "poster": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+      "kind": "kids",
+      "year": 2017
+    },
+    {
+      "id": "41",
+      "title": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
+      "kind": "kids",
+      "year": 2016
+    },
+    {
+      "id": "42",
+      "title": "Frozen 2",
+      "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCb2xQRIgS1TKkB.jpg",
+      "kind": "kids",
+      "year": 2019
+    },
+    {
+      "id": "43",
+      "title": "Toy Story 4",
+      "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "kind": "kids",
+      "year": 2019
+    },
+    {
+      "id": "44",
+      "title": "Os Incríveis 2",
+      "poster": "https://image.tmdb.org/t/p/w500/9lFKBtbrLkc6ywvOzqZqBkhqKKx.jpg",
+      "kind": "kids",
+      "year": 2018
+    },
+    {
+      "id": "45",
+      "title": "Procurando Dory",
+      "poster": "https://image.tmdb.org/t/p/w500/yFjVlsJmEMacU0BNUwdGZlo2ixq.jpg",
+      "kind": "kids",
+      "year": 2016
+    },
+    {
+      "id": "46",
+      "title": "Planeta Terra III",
+      "poster": "https://image.tmdb.org/t/p/w500/7CRKXQBbqH9fRiJyUXyMNQhKhF8.jpg",
+      "kind": "doc",
+      "year": 2023
+    },
+    {
+      "id": "47",
+      "title": "Nosso Planeta",
+      "poster": "https://image.tmdb.org/t/p/w500/eFuOHbPOmjqxSZh1OFBvFVYbXJu.jpg",
+      "kind": "doc",
+      "year": 2019
+    },
+    {
+      "id": "48",
+      "title": "Planeta Azul II",
+      "poster": "https://image.tmdb.org/t/p/w500/wOKLscJjJFJXYbCaOOZ8Xvogr3K.jpg",
+      "kind": "doc",
+      "year": 2017
+    },
+    {
+      "id": "49",
+      "title": "Cosmos: Mundos Possíveis",
+      "poster": "https://image.tmdb.org/t/p/w500/7bRYdGf9W6jDgFoHrfCjHRZqNcM.jpg",
+      "kind": "doc",
+      "year": 2020
+    },
+    {
+      "id": "50",
+      "title": "A Vida em Nosso Planeta",
+      "poster": "https://image.tmdb.org/t/p/w500/7FfNLgFZPELJA0B5sSdJCPKqgVE.jpg",
+      "kind": "doc",
+      "year": 2023
+    },
+    {
+      "id": "51",
+      "title": "Frozen Planet II",
+      "poster": "https://image.tmdb.org/t/p/w500/egWgNKQpRwbQaWmEjLKxUjkaOWo.jpg",
+      "kind": "doc",
+      "year": 2022
+    },
+    {
+      "id": "52",
+      "title": "Prehistoric Planet",
+      "poster": "https://image.tmdb.org/t/p/w500/pLlbQXcDZt9fiUIFvZmBODLlXvC.jpg",
+      "kind": "doc",
+      "year": 2022
+    },
+    {
+      "id": "53",
+      "title": "The Last Dance",
+      "poster": "https://image.tmdb.org/t/p/w500/fq1FWh5g8PckFbNJYhBjJWJWJWZ.jpg",
+      "kind": "doc",
+      "year": 2020
+    },
+    {
+      "id": "54",
+      "title": "Formula 1: Drive to Survive",
+      "poster": "https://image.tmdb.org/t/p/w500/wtcuEvdIsFCjKJq6xDPGXMGCBp3.jpg",
+      "kind": "doc",
+      "year": 2023
+    },
+    {
+      "id": "55",
+      "title": "Senna",
+      "poster": "https://image.tmdb.org/t/p/w500/nGQFXRHZ8VfHLsTPoBnXikJHWU.jpg",
+      "kind": "doc",
+      "year": 2010
+    }
+  ]
+}
